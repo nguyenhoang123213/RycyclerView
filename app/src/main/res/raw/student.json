@@ -1,0 +1,152 @@
+[
+  {
+    "id": "B27DCCN100",
+    "full_name": {
+      "first": "Hoa",
+      "last": "Mai",
+      "midd": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "10/10/2009",
+    "email": "hoamai@xmail.com",
+    "address": "Nghệ An",
+    "major": "CNTT",
+    "gpa": 3.25,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN101",
+    "full_name": {
+      "first": "Nam",
+      "last": "Nguyễn",
+      "midd": "Văn"
+    },
+    "gender": "Nam",
+    "birth_date": "15/09/2008",
+    "email": "namnguyen@xmail.com",
+    "address": "Hà Nội",
+    "major": "Kinh tế",
+    "gpa": 3.45,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN102",
+    "full_name": {
+      "first": "Lan",
+      "last": "Phạm",
+      "midd": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "22/03/2009",
+    "email": "lanpham@xmail.com",
+    "address": "Đà Nẵng",
+    "major": "CNTT",
+    "gpa": 3.6,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN103",
+    "full_name": {
+      "first": "Tuấn",
+      "last": "Lê",
+      "midd": "Anh"
+    },
+    "gender": "Nam",
+    "birth_date": "05/06/2007",
+    "email": "tuanle@xmail.com",
+    "address": "Hồ Chí Minh",
+    "major": "Cơ khí",
+    "gpa": 3.2,
+    "year": 4
+  },
+  {
+    "id": "B27DCCN104",
+    "full_name": {
+      "first": "Hằng",
+      "last": "Bùi",
+      "midd": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "30/11/2008",
+    "email": "hangbui@xmail.com",
+    "address": "Hà Tĩnh",
+    "major": "Quản trị kinh doanh",
+    "gpa": 3.75,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN105",
+    "full_name": {
+      "first": "Long",
+      "last": "Trần",
+      "midd": "Hữu"
+    },
+    "gender": "Nam",
+    "birth_date": "01/01/2009",
+    "email": "longtran@xmail.com",
+    "address": "Hải Phòng",
+    "major": "Xây dựng",
+    "gpa": 3.55,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN106",
+    "full_name": {
+      "first": "Trang",
+      "last": "Đỗ",
+      "midd": "Minh"
+    },
+    "gender": "Nữ",
+    "birth_date": "20/12/2008",
+    "email": "trangdo@xmail.com",
+    "address": "Quảng Ninh",
+    "major": "CNTT",
+    "gpa": 3.8,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN107",
+    "full_name": {
+      "first": "Quang",
+      "last": "Hoàng",
+      "midd": "Ngọc"
+    },
+    "gender": "Nam",
+    "birth_date": "18/08/2009",
+    "email": "quanghoang@xmail.com",
+    "address": "Ninh Bình",
+    "major": "Kỹ thuật phần mềm",
+    "gpa": 3.4,
+    "year": 2
+  },
+  {
+    "id": "B27DCCN108",
+    "full_name": {
+      "first": "Yến",
+      "last": "Vũ",
+      "midd": "Thị"
+    },
+    "gender": "Nữ",
+    "birth_date": "12/07/2008",
+    "email": "yenvu@xmail.com",
+    "address": "Bắc Giang",
+    "major": "Kinh tế",
+    "gpa": 3.65,
+    "year": 3
+  },
+  {
+    "id": "B27DCCN109",
+    "full_name": {
+      "first": "Minh",
+      "last": "Phạm",
+      "midd": "Đức"
+    },
+    "gender": "Nam",
+    "birth_date": "05/05/2007",
+    "email": "minhpham@xmail.com",
+    "address": "Hải Dương",
+    "major": "Quản trị kinh doanh",
+    "gpa": 3.35,
+    "year": 4
+  }
+]

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RycyclerView</string>
+    <string name="title_student_id">B25DCCN100</string>
+    <string name="title_fullname">Nguyễn Ngọc Mai</string>
+    <string name="title_gpa">2.75</string>
+    <string name="desc_image_avatar">Avatar image\n</string>
+    <string name="message_info">Họ Và Tên : %s</string>
+</resources>
